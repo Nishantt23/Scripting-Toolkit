@@ -1,3 +1,4 @@
+# Script Reference: The Cyber Mentor (Practical Ethical Hacking Course)
 #!/bin/bash	
 url=$1
 if [ ! -d "$url" ];then
