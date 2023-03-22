@@ -1,7 +1,7 @@
 import shodan
 import requests
 
-SHODAN_API_KEY =  "MYMbM7t0BnrnKRCr8S1aGCAAivmHtVxU"
+SHODAN_API_KEY =  "INSERT_API_KEY_HERE"
 
 api = shodan.Shodan(SHODAN_API_KEY)
 
